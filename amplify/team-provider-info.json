@@ -1,0 +1,19 @@
+{
+    "git": {
+        "awscloudformation": {
+            "AuthRoleName": "myphotosalbumonline-git-20191012141324-authRole",
+            "UnauthRoleArn": "arn:aws:iam::250387501934:role/myphotosalbumonline-git-20191012141324-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::250387501934:role/myphotosalbumonline-git-20191012141324-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "myphotosalbumonline-git-20191012141324-deployment",
+            "UnauthRoleName": "myphotosalbumonline-git-20191012141324-unauthRole",
+            "StackName": "myphotosalbumonline-git-20191012141324",
+            "StackId": "arn:aws:cloudformation:us-east-1:250387501934:stack/myphotosalbumonline-git-20191012141324/20fa8790-ed35-11e9-8f75-0e7698e0f2e8"
+        },
+        "categories": {
+            "auth": {
+                "myphotosalbumonline9bac27ac": {}
+            }
+        }
+    }
+}
